@@ -124,7 +124,7 @@ class Ekran {
 
         //* setTimeOut,setInterval
         //! settimeout tanımladığımız değerin kaç saniye sonra işlem göreceğini belirler
-        //! setinterval ise kaç saniyede bir işlem yapılacağını belirler.
+        //! setinterval ise kaç saniyede bir işlem yapılacağını belirler
         setTimeout(function() {
             uyariDivi.className = 'bilgi';
         }, 2000);
